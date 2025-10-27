@@ -1,2 +1,3 @@
 # Tama2
-Variable
+Praktek python
+
