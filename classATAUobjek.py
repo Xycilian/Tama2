@@ -1,4 +1,5 @@
 class MyClass:
   x = 11
 
-print(MyClass)
+p1 = MyClass()
+print(p1.x)
